@@ -108,8 +108,6 @@ L'application prend en charge plusieurs modèles d'IA pour l'extraction de texte
 vision-ocr-pro/
 ├── app.py                 # Application principale
 ├── requirements.txt       # Dépendances Python
-├── assets/                # Images et ressources statiques
-│   └── placeholder.png    # Image de placeholder
 ├── README.md              # Documentation              
 ```
 
