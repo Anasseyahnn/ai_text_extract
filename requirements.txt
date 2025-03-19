@@ -1,0 +1,6 @@
+streamlit
+ollama
+PIL
+io
+base64
+time
